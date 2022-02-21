@@ -11,7 +11,9 @@
 
 **Techniques & Process**
 
--
+- First we pivot the data in the competitor_research csv for a more machine friendly format
+
+![]()
 
 **Analysis & Insights**
 
