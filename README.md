@@ -11,9 +11,13 @@
 
 **Techniques & Process**
 
-- First we pivot the data in the competitor_research csv for a more machine friendly format:
+- First I pivot the data in the competitor_research csv for a more machine friendly format:
 
 ![](https://github.com/latiful-hassan/retail_chain_expansion/blob/main/retail_chain_expansion_screenshots/pivot_competitor_research.png)
+
+- I then created a box-plot on *Net Profit Margin* against *State*:
+
+![]()
 
 **Analysis & Insights**
 
