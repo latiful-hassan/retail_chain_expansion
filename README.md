@@ -26,7 +26,7 @@
 - Filtered for the states in question
 - Created a graph showing the *'Turnover'* by *'State'*:
 
-![]()
+![](https://github.com/latiful-hassan/retail_chain_expansion/blob/main/retail_chain_expansion_screenshots/industry_analysis.png)
 
 - 
 
