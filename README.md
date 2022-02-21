@@ -17,7 +17,9 @@
 
 - I then created a box-plot on *Net Profit Margin* against *State*:
 
-![]()
+![](https://github.com/latiful-hassan/retail_chain_expansion/blob/main/retail_chain_expansion_screenshots/box_plot.png)
+
+-
 
 **Analysis & Insights**
 
