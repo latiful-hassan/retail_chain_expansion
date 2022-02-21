@@ -21,6 +21,8 @@
 
 - Cleaned *retail_turnover_by_state_and_subgroup_raw* by removing unnecessary data
 - Added a **Data Source Filter** for 2010 before pivoting and splitting the data to reduce processing time (will un-do before analysis)
+- After removing the previous data source filter, I added one that filters for only *'Clothing Retailing'* as that is the subject of this analysis and another that filters the dates so we are working with data from 2000 onwards
+- 
 
 **Analysis & Insights**
 
