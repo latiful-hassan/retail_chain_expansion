@@ -20,7 +20,7 @@
 ![](https://github.com/latiful-hassan/retail_chain_expansion/blob/main/retail_chain_expansion_screenshots/box_plot.png)
 
 - Cleaned *retail_turnover_by_state_and_subgroup_raw* by removing unnecessary data
-- Added a **Data Source Filter** for 2010 before pivoting the data to reduce processing time (will un-do before analysis)
+- Added a **Data Source Filter** for 2010 before pivoting and splitting the data to reduce processing time (will un-do before analysis)
 
 **Analysis & Insights**
 
