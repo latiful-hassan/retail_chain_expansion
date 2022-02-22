@@ -19,7 +19,7 @@
 
 ![](https://github.com/latiful-hassan/retail_chain_expansion/blob/main/retail_chain_expansion_screenshots/box_plot.png)
 
-- Cleaned *retail_turnover_by_state_and_subgroup_raw* by removing unnecessary data
+- Cleaned *retail_turnover_by_state_and_subgroup_raw* 
 - Added a **Data Source Filter** for 2010 before pivoting and splitting the data to reduce processing time (will un-do before analysis)
 - After removing the previous data source filter, I added one that filters for only *'Clothing Retailing'*
 - Added another data source filter for dates (2000 onwards)
@@ -28,7 +28,10 @@
 
 ![](https://github.com/latiful-hassan/retail_chain_expansion/blob/main/retail_chain_expansion_screenshots/industry_analysis.png)
 
-- 
+- Cleaned *austrailian_demographics_raw* in Excel
+- Split and pivoted the data in Tableau
+- Added a data course filter for *'Persons'* as we are assuming shopping habits are equal for men and women for this investigation
+- Blended the two data sets
 
 **Analysis & Insights**
 
