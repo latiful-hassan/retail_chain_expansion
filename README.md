@@ -42,6 +42,13 @@
 
 ![](https://github.com/latiful-hassan/retail_chain_expansion/blob/main/retail_chain_expansion_screenshots/sales_per_capita_forecasted.png)
 
+**Report**
+
+- The report is in **Story** form, please see *retail_chainn_expansion_report*
+
 **Analysis & Insights**
 
--
+- Taking a glance at the box-plot on Competitor Research, we see that Victoria has tighter variance and a higher upper range than both Queensland and Western Austrailia despite Net Profit Margins being similar
+- The Industry Analysis shows up-ward trend in all regions, however, this is not taking into account the population
+- The Sales per Capita graph confirms that there is growth only in the existing New South Wales region as well as Victoria
+- In conclusion, Victoria is reccomended as an expansion opportunity as there is greater potential for future growth
