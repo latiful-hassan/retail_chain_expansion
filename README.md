@@ -31,7 +31,10 @@
 - Cleaned *austrailian_demographics_raw* in Excel
 - Split and pivoted the data in Tableau
 - Added a data course filter for *'Persons'* as we are assuming shopping habits are equal for men and women for this investigation
-- Blended the two data sets
+- Blended the two data sets on Year and Quarter
+- Added a data source filter for March
+- Created a calculated field to work out *'Sales per Capita'*:
+ SUM([Turnover $M])/SUM([Data1 (austrailian_demographics_cleaned)].[Population])
 
 **Analysis & Insights**
 
