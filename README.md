@@ -36,7 +36,7 @@
 - Created a calculated field to work out *'Sales per Capita'*: <br/>
  SUM([Turnover $M])/SUM([Data1 (austrailian_demographics_cleaned)].[Population]) * 100000000
 
-![]()
+![](https://github.com/latiful-hassan/retail_chain_expansion/blob/main/retail_chain_expansion_screenshots/sales_per_capita.png)
 
 **Analysis & Insights**
 
