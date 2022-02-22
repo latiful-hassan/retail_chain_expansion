@@ -44,7 +44,7 @@
 
 **Report**
 
-- The report is in **Story** form, please see *retail_chainn_expansion_report*
+- The report is in **Story** form, please see *retail_chain_expansion_report*
 
 **Analysis & Insights**
 
