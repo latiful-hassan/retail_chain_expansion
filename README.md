@@ -38,6 +38,10 @@
 
 ![](https://github.com/latiful-hassan/retail_chain_expansion/blob/main/retail_chain_expansion_screenshots/sales_per_capita.png)
 
+- Added **Forecast** for 3 years, ignoring 0 values:
+
+![]()
+
 **Analysis & Insights**
 
 -
